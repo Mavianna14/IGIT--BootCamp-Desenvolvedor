@@ -1,2 +1,2 @@
-# IGIT--BootCamp-Desenvolvedor
+# IGIT-BootCamp-Desenvolvedor
 Curso do IGIT
