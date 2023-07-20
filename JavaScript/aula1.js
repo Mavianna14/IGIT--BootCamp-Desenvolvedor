@@ -37,6 +37,6 @@ console.log(aluno1.dataNascimento)
 
 delete aluno1.dataNascimento;
 
-//Arrays
+//Arrays//
 
 var frutas = ["Banana", "Laranja", "Maçã"]
