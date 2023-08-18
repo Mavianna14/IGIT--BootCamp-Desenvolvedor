@@ -40,3 +40,29 @@ delete aluno1.dataNascimento;
 //Arrays//
 
 var frutas = ["Banana", "Laranja", "Maçã"]
+
+
+
+function imprimeOla() {
+
+    console.log("Olá");
+
+}
+
+imprimeOla();
+
+function soma (op1,op2) {
+
+    return op1 + op2;
+
+}
+
+var m = "olá"
+
+imprimeOla()
+
+function imprimeOla(){
+var nome = "danilo";
+console.log (m);
+console.log (nome);
+}
